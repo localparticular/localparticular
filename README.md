@@ -1,6 +1,4 @@
-# localparticular
-
-**Kaeli + Macie**  
+# Kaeli + Macie**  
 with frequent interference from [Vaer](https://github.com/vaernaleh).
 
 We build, test, draw, break, write, prototype, wander sideways, and occasionally turn the result into research.
